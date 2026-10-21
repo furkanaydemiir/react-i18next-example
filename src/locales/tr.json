@@ -1,0 +1,8 @@
+{
+  "title": "Kullanıcı Listesi",
+  "language": "Dil",
+  "name": "Ad Soyad",
+  "email": "E-posta",
+  "age": "Yaş",
+  "location": "Konum"
+}
